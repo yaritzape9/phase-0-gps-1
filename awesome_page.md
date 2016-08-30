@@ -15,4 +15,6 @@
 
 check out [Kali Linux](https://www.kali.org/)
 
->This is a change that can cause a conflict. 
+>This is a change that can cause a conflict. Conflicts can ber a pain in the butt.
+
+
